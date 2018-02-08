@@ -8,15 +8,24 @@
 ## Examples of Twitter bots
 There are useful and/or interesting Twitter bots, and then there are spam Twitter bots.
 
+## Examples of Twitter bots
+There are useful and/or interesting Twitter bots, and then there are spam Twitter bots.
+
 Here are some examples of good Twitter bots:
+
 **International Space Station Bot**
-Sends you a direct message whenever the international space station (ISS) will be visible at your location. See link here.
+Sends you a direct message whenever the international space station (ISS) will be visible at your location. See link [here](https://twitter.com/twisst).
+
 **Earthquake Bot**
-Tweets about the location of earthquakes and their magnitude when they register as 5.0 or greater on the Richter scale. See link here.
+Tweets about the location of earthquakes and their magnitude when they register as 5.0 or greater on the Richter scale. See link [here](https://twitter.com/earthquakeBot).
+
 **Trump Alert**
-A bot tracking Trump family follow and unfollows, so we can try and figure out what is going on inside the White House. See link here.
+A bot tracking Trump family follow and unfollows, so we can try and figure out what is going on inside the White House. See link [here](https://twitter.com/TrumpsAlert).
+
 **Trump’s Feed**
-A bot that retweets tweets from people the president follows on Twitter. A project of Phillip Bump of the Washington Post. See link here.
+A bot that retweets tweets from people the president follows on Twitter. A project of Phillip Bump of the Washington Post. See link [here](https://twitter.com/TrumpsAlert).
+
+Many bot repos aren't public, but a lot by journalists are, like Joe Fox's [colorschemer](https://github.com/joemfox/colorschemer) and Ken Schwencke's [fec-moji](https://github.com/Schwanksta/fec-moji). [Poynter](https://www.poynter.org/news/7-best-twitter-bots-journalism) also has a good list of journalism Twitter bots.
 
 ## Your Twitter API Key
 In order to access Twitter’s API, you need a key. You can do this by following the steps below:
@@ -72,3 +81,5 @@ So your bot needs to live on a server outside of yours’. In order to do this, 
 
 #### Bonus: README syntax and testing
 In the course of writing this, we found this really helpful [guide](https://help.github.com/articles/basic-writing-and-formatting-syntax/#quoting-code) on README syntax and a [website](https://stackedit.io/app) that lets you write in that syntax and shows you what it will look like on GitHub in the adjoining panel.  
+
+![Twitter Bot Comic](https://imgs.xkcd.com/comics/twitter_bot.png)
